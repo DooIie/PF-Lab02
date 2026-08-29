@@ -1,5 +1,5 @@
 # PF-Lab02
-Moeez Iqbal
-26P-3015
-SE-1A
-M Aais Rabbani (Mehboob)
+Name: Moeez Iqbal
+Roll number: 26P-3015
+Class : SE-1A
+Instructor: M Aais Rabbani (Mehboob)
